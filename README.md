@@ -1,9 +1,6 @@
 # Data Analysis Projects
 
-В портфолио отобраны 2 реализованных мной проекта по анализу данных на курсе "Специалист по Data Science" в Яндекс Практикуме.
-
-[Диплом (русский язык)](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/yandex_praktikum_ds_certificate_rus.pdf)     
-[Диплом (английский язык)](https://github.com/cenzukari/yandex_practicum_data_science_projects/blob/main/yandex_praktikum_ds_certificate_eng.pdf)
+В портфолио отобраны 2 реализованных мной проекта по анализу данных.
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
